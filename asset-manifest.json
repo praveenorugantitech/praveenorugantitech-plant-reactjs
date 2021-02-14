@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/praveenorugantitech-plant-reactjs/static/css/main.04c4c4d4.chunk.css",
-    "main.js": "/praveenorugantitech-plant-reactjs/static/js/main.2eb9835c.chunk.js",
+    "main.css": "/praveenorugantitech-plant-reactjs/static/css/main.269eb9c0.chunk.css",
+    "main.js": "/praveenorugantitech-plant-reactjs/static/js/main.80a80c6e.chunk.js",
+    "main.js.map": "/praveenorugantitech-plant-reactjs/static/js/main.80a80c6e.chunk.js.map",
     "runtime-main.js": "/praveenorugantitech-plant-reactjs/static/js/runtime-main.8f44202b.js",
+    "runtime-main.js.map": "/praveenorugantitech-plant-reactjs/static/js/runtime-main.8f44202b.js.map",
     "static/js/2.7fdcf3b3.chunk.js": "/praveenorugantitech-plant-reactjs/static/js/2.7fdcf3b3.chunk.js",
+    "static/js/2.7fdcf3b3.chunk.js.map": "/praveenorugantitech-plant-reactjs/static/js/2.7fdcf3b3.chunk.js.map",
     "index.html": "/praveenorugantitech-plant-reactjs/index.html",
+    "static/css/main.269eb9c0.chunk.css.map": "/praveenorugantitech-plant-reactjs/static/css/main.269eb9c0.chunk.css.map",
     "static/js/2.7fdcf3b3.chunk.js.LICENSE.txt": "/praveenorugantitech-plant-reactjs/static/js/2.7fdcf3b3.chunk.js.LICENSE.txt",
     "static/media/loader.a04858ec.gif": "/praveenorugantitech-plant-reactjs/static/media/loader.a04858ec.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.8f44202b.js",
     "static/js/2.7fdcf3b3.chunk.js",
-    "static/css/main.04c4c4d4.chunk.css",
-    "static/js/main.2eb9835c.chunk.js"
+    "static/css/main.269eb9c0.chunk.css",
+    "static/js/main.80a80c6e.chunk.js"
   ]
 }
